@@ -4,12 +4,13 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Validation Language Lines
+    | Lignes de langage de validation
     |--------------------------------------------------------------------------
     |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages here.
+    | Les lignes de langage suivantes contiennent les messages d'erreur par 
+    | défaut utilisés par la classe validateur. Certaines de ces règles ont 
+    | plusieurs versions comme les règles de taille. 
+    | N'hésitez pas à modifier chacun de ces messages ici.
     |
     */
 
@@ -153,12 +154,13 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Custom Validation Language Lines
+    | Lignes de langage de validation personnalisées
     |--------------------------------------------------------------------------
     |
-    | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
-    | specify a specific custom language line for a given attribute rule.
+    | Ici, vous pouvez spécifier des messages de validation personnalisés 
+    | pour les attributs en utilisant la convention "attribute.rule" 
+    | pour nommer les lignes. Cela permet de spécifier rapidement 
+    | une ligne de langue personnalisée spécifique pour une règle d'attribut donnée.
     |
     */
 
@@ -170,12 +172,13 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Custom Validation Attributes
+    | Attributs de validation personnalisés
     |--------------------------------------------------------------------------
     |
-    | The following language lines are used to swap our attribute placeholder
-    | with something more reader friendly such as "E-Mail Address" instead
-    | of "email". This simply helps us make our message more expressive.
+    | Les lignes de langage suivantes sont utilisées pour remplacer notre espace 
+    | réservé d'attribut par quelque chose de plus convivial, tel que « Adresse e-mail » 
+    | au lieu de « e-mail ». 
+    | Cela nous aide simplement à rendre notre message plus expressif.
     |
     */
 
